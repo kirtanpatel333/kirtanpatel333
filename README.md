@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | Full Stack Enthusiast | System Design Learner</h3>
 
 
-[![Profile views](https://komarev.com/ghpvc/?username=IamFLaME03&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/IamFLaME03)
+[![Profile views](https://komarev.com/ghpvc/?username=kirtanpatel333&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/kirtanpatel333)
 
 ---
 
