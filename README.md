@@ -18,8 +18,6 @@
 
 ## 🚀 Tech Stack
 
-## 💻 Tech Stack:
-
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -43,35 +41,6 @@
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
-
----
-
-## 🧠 Currently Working On
-
-🚗 Car Marketplace System (Buy / Sell / Negotiate Flow)  
-🔐 JWT Authentication & Role-Based Access  
-📊 Admin Panel Architecture (Store vs Admin separation)
-
----
-
-## 📌 Featured Projects
-
-### 🚗 Car Marketplace (MERN)
-Full-featured platform with:
-- Buyer & Seller Roles
-- Chat Negotiation System
-- Secure Payment Flow
-- Reservation & Order Management
-
-### 🛒 E-commerce Admin Panel
-- Scalable Admin Architecture
-- Product & Inventory Management
-- Performance Optimized Layout
-
-### 📊 MERN System Design Projects
-- Sequence Diagrams
-- Activity Diagrams
-- Production-Ready Architecture
 
 ---
 
