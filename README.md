@@ -48,7 +48,3 @@
 
 - 💼 LinkedIn: www.linkedin.com/in/kirtan-patel333
 - 📧 Email: kypatel7338@gmail.com
-
----
-
-⭐ *Open to internships & full-time MERN Developer opportunities*
